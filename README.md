@@ -8,8 +8,12 @@ sdk_version: 3.25.0
 python_version: 3.11
 app_file: main.py
 pinned: false
-duplicated_from: qingxu98/gpt-academic
 ---
+
+
+# 本地部署指南（安装指南）
+https://www.bilibili.com/video/BV1rc411W7Dr/?spm_id_from=333.337.search-card.all.click&vd_source=055e852131cfb79d607ae87f8aa01968
+https://www.bilibili.com/video/BV1Th411V75K/?spm_id_from=333.337.search-card.all.click
 
 # ChatGPT 学术优化
 
