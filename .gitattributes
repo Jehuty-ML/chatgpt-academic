@@ -1,0 +1,8 @@
+*.h linguist-detectable=false
+*.cpp linguist-detectable=false
+*.tex linguist-detectable=false
+*.cs linguist-detectable=false
+*.tps linguist-detectable=false
+img/wechat.png filter=lfs diff=lfs merge=lfs -text
+img/wechatgroup.png filter=lfs diff=lfs merge=lfs -text
+img/wepay.png filter=lfs diff=lfs merge=lfs -text
